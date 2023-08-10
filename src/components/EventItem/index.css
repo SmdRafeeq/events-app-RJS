@@ -1,0 +1,41 @@
+.event-item {
+  width: 90%;
+  list-style-type: none;
+  margin-right: 24px;
+  margin-bottom: 32px;
+}
+
+.event-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 0px;
+}
+
+.event-image {
+  width: 100%;
+  border: 2px solid transparent;
+  max-width: 460px;
+  border-radius: 8px;
+}
+
+.active {
+  border: 2px solid #2dd4bf;
+  border-radius: 10px;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.2;
+  margin-top: 12px;
+  color: #f8fafc;
+}
+
+.location {
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 4px;
+  color: #f8fafc;
+}
